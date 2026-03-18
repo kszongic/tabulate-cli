@@ -1,0 +1,21 @@
+{
+  "name": "@kszongic/tabulate-cli",
+  "version": "1.0.0",
+  "description": "Format stdin into aligned, padded columns. Supports custom delimiters, headers, and border styles.",
+  "main": "index.js",
+  "bin": {
+    "tabulate": "index.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["tabulate", "table", "columns", "align", "format", "cli", "terminal", "pretty-print"],
+  "author": "kszongic",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/kszongic/tabulate-cli"
+  },
+  "homepage": "https://github.com/kszongic/tabulate-cli#readme",
+  "files": ["index.js", "README.md", "LICENSE"]
+}
